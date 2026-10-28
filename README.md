@@ -8,4 +8,5 @@ The Hugren Enterprises website, served free by GitHub Pages at https://hugrenent
 - `img/`: pictures. Art is public domain (CC0) from the Art Institute of Chicago, credited where it's shown.
 
 To add a project: add a card to `index.html` and a folder like `rug-reveal/` with its own page and privacy policy.
+`google211f99346a4bfebd.html` proves ownership to Google Search Console (for Play Console). Never delete it.
 Changes go live a minute or so after they're pushed to `main`.
