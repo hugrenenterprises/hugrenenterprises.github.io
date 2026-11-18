@@ -3,7 +3,7 @@
 The Hugren Enterprises website, served free by GitHub Pages at https://hugrenenterprises.github.io.
 
 - `index.html`: the company page (projects, about, contact).
-- `rug-reveal/`: Rug Reveal's page and its privacy policy (`privacy.html`, the URL for Google Play).
+- `rug-reveal/`: Rug Reveal's page, its privacy policy (`privacy.html`, the URL for Google Play) and its terms of service (`terms.html`).
 - `style.css`: the shared look (dark and bold).
 - `img/`: pictures. Art is public domain (CC0) from the Art Institute of Chicago, credited where it's shown.
 
